@@ -1,6 +1,6 @@
 # Connected User Directory And CalenderSystem
 
-This repository is part of one of the successfully proposed and Award winning solution in Smart India Hackathon-2018 software edition competition. It is delivering morder meeting managment functionality which is mentiond below:
+This repository is part of one of the successfully proposed and Award winning solution in Smart India Hackathon-2018 software edition competition. It is delivering morden meeting managment functionality which is mentiond below:
 - Interactive meeting managment portal .
 - Meting alerts using email and SMS notification.
 - Function of Video call in order to attend virtual meeting.
